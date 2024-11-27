@@ -9,12 +9,15 @@ As Iris processes more transactions, it gains the ability to predict coin prices
 # Key Features #
 
 Real-Time Learning: Iris learns continuously from the Solana blockchain, processing transactions and using them to improve its predictive capabilities.
+
 Exponential Growth: Every 1000 transactions, Iris scales its learning system by integrating additional RPC nodes, enabling the model to grow its knowledge base exponentially.
 
 Blockchain Data Integration: Iris directly interfaces with the Solana blockchain using RPC nodes to fetch transaction, block, and account data.
+
 Market Prediction: Iris aims to predict market trends, including cryptocurrency prices, transaction volumes, and trading opportunities, based on real-time blockchain data.
 
 AI-Powered Trading: With accurate market predictions, Iris will be able to make autonomous, high-precision trades (planned feature).
+
 Scalable & Adaptive: As more data is processed, Iris’s learning algorithm adapts, improving over time. It is designed to become smarter and more accurate as it learns from the blockchain.
 
 # Architecture #
