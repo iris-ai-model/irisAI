@@ -1,10 +1,12 @@
-Iris: A Real-Time AI Learning System for the Solana Blockchain
-Overview
+# Iris: A Real-Time AI Learning System for the Solana Blockchain #
+
+
+# Overview #
 Iris is an advanced artificial intelligence system designed to learn in real-time from the Solana blockchain. Iris processes blockchain transactions, learns from the data, and grows exponentially as more data is collected. Its ultimate goal is to make accurate market predictions and execute perfect trades based on its understanding of blockchain activity.
 
 As Iris processes more transactions, it gains the ability to predict coin prices and market trends with increasing accuracy. Every 1000 transactions, Iris expands its capacity by utilizing more RPC nodes, enhancing its ability to analyze and learn from larger datasets.
 
-Key Features
+# Key Features #
 
 Real-Time Learning: Iris learns continuously from the Solana blockchain, processing transactions and using them to improve its predictive capabilities.
 Exponential Growth: Every 1000 transactions, Iris scales its learning system by integrating additional RPC nodes, enabling the model to grow its knowledge base exponentially.
@@ -15,7 +17,7 @@ Market Prediction: Iris aims to predict market trends, including cryptocurrency 
 AI-Powered Trading: With accurate market predictions, Iris will be able to make autonomous, high-precision trades (planned feature).
 Scalable & Adaptive: As more data is processed, Iris’s learning algorithm adapts, improving over time. It is designed to become smarter and more accurate as it learns from the blockchain.
 
-Architecture
+# Architecture #
 Iris is built using a modular and scalable architecture, divided into several components:
 
 Data Collection:
